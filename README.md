@@ -8,5 +8,6 @@ len(clothingtype)
 range(0,len(clothingtype)))
 for index in list(range(0,len(clothingtype))):
   print(color[index]+",",clothingtype[index])]
+[example_dictionary={'Material':"Silk",'Brand':"Gucci",'Garment':"Scarf"}
   
   
